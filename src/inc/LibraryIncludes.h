@@ -40,6 +40,7 @@
 #include <sstream>
 #include <iomanip>
 #include <filesystem>
+#include <numeric>
 
 // WIL
 
